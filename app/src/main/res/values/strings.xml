@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="Name">Youssef Guba</string>
+    <string name="bio_text"> Youssef Guba  Youssef Guba  Youssef Guba
+         Youssef Guba  Youssef Guba  Youssef Guba
+         Youssef Guba  Youssef Guba  Youssef Guba  Youssef Guba
+         Youssef Guba  Youssef Guba  Youssef Guba  Youssef Guba
+         Youssef Guba  Youssef Guba  Youssef Guba  Youssef Guba  Youssef Guba  Youssef Guba  Youssef Guba
+         Youssef Guba  Youssef Guba  Youssef Guba
+         Youssef Guba  Youssef Guba  Youssef Guba  Youssef Guba  Youssef Guba  Youssef Guba  Youssef Guba
+         Youssef Guba  Youssef Guba  Youssef Guba  Youssef Guba  Youssef Guba
+        Ahmed Saeed  Ahmed Saeed   Ahmed Saeed   Ahmed Saeed   Ahmed Saeed   Ahmed Saeed   Ahmed Saeed
+         Ahmed Saeed   Ahmed Saeed   Ahmed Saeed   Ahmed Saeed   Ahmed Saeed   Ahmed Saeed
+         Ahmed Saeed   Ahmed Saeed   Ahmed Saeed   Ahmed Saeed   Ahmed Saeed
+         Ahmed Saeed   Ahmed Saeed   Ahmed Saeed   Ahmed Saeed   Ahmed Saeed
+         Ahmed Saeed   Ahmed Saeed   Ahmed Saeed   Ahmed Saeed   Ahmed Saeed
+         Ahmed Saeed   Ahmed Saeed   Ahmed Saeed   Ahmed Saeed   Ahmed Saeed
+         Ahmed Saeed   Ahmed Saeed   Ahmed Saeed   Ahmed Saeed
+       </string>
+    <string name="your_nick_name">What is your Nick name?</string>
+
+
+</resources>
